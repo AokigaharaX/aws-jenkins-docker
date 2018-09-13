@@ -1,6 +1,6 @@
 FROM jenkins/jenkins:lts
 
-MAINTAINER Yue Ma <yue.ma@thomsonreuters.com>
+MAINTAINER ashyoff <no.where@hell.com>
 
 USER root
 RUN apt-get update && \
